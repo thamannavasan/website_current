@@ -50,9 +50,6 @@ Analysis of universal healthcare system on access to care and cost for the Latin
 Analyzes the economic and fiscal impacts of a low-income fare on the transit agency and state revenue.
 <br>
 <div style="text-align: right"> <a href="https://thamannavasan.netlify.app/publications#top">Return to top</a> </div>
-
-<br>
-<div style="text-align: right"> <a href="https://thamannavasan.netlify.app/publications#top">Return to top</a> </div>
 <br>
 <br>
 <div id="exp"></div>
