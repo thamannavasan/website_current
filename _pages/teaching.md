@@ -9,15 +9,15 @@ author_profile: true
 
 
 ### Oregon State University— Department of Applied Economics, Corvallis OR<br>
-* Instructor
-    + AEC 250 Intro. to Environmental Econ. and Policy, Fall 2022
-    + AEC 253 Enviro. Law, Policy and Economics, Fall 2021
-* Lab Instructor
-    + AEC 626 Advanced Econometrics II, Spring 2020
-* Teaching Assistant
-    + AEC 253 Enviro. Law, Policy and Economics, Winter 2020
-    + AEC 250 Intro. to Environmental Econ. and Policy, Fall 2018
-
+Instructor<br>
+•  AEC 250 Intro. to Environmental Econ. and Policy, Fall 2022<br>
+•  AEC 253 Enviro. Law, Policy and Economics, Fall 2021<br><br>
+Lab Instructor<br>
+•  AEC 626 Advanced Econometrics II, Spring 2020<br><br>
+Teaching Assistant<br>
+•  AEC 253 Enviro. Law, Policy and Economics, Winter 2020<br>
+•  AEC 250 Intro. to Environmental Econ. and Policy, Fall 2018<br>
+<br><br>
 ### Colorado College— Department of Economics and Business, Colorado Springs CO<br>
-* Teaching Assistant
-    + Investments, Spring 2014
+Teaching Assistant<br>
+•  Investments, Spring 2014
