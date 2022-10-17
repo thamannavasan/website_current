@@ -2,9 +2,6 @@
 main:
   - title: "Research"
     url: /publications/
-  
- - title: "Fellowships and Awards"
-    url: /fellowships/
     
   - title: "Teaching"
     url: /teaching/    
