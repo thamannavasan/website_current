@@ -20,7 +20,7 @@ Abstract: Firms face many competing incentives when managing workplace accident 
 
 *Please Contact for Draft of JMP*
 
-<div style="text-align: right"> [Return to top](#top) </div>
+<div style="text-align: right"> <a href="https://thamannavasan2.netlify.app//publications#top">Return to top</a> </div>
 
 <div id="pubs"></div>
 
