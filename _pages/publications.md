@@ -75,7 +75,7 @@ Graduate Fellow and Mentor
 <br>
 <br>
 **Colorado Fiscal Institute** \
-Denver CO, May 2014- September 2017\ 
+Denver CO, May 2014- September 2017 \ 
 Economic Policy and State Budget Analyst
 <br>
 <br>
