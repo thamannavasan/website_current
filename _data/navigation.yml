@@ -5,8 +5,11 @@ main:
     
   - title: "Teaching"
     url: /teaching/    
+
+  - title: "Fellowships and Awards"
+    url: /fellowships/  
     
-  - title: "Talks"
+  - title: "Presentation and Media"
     url: /talks/  
         
   #- title: "Blog Posts"
