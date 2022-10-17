@@ -12,17 +12,17 @@ I am a Ph.D. candidate in the Applied Economics Department at Oregon State Unive
 
 I will be on the job market in the 2022/2023 AY and will be available for interviews at the Southern Economic Association and the ASSA annual meeting. See my [CV here](https://thamannavasan2.netlify.app/_pages/ThamannaVasan_2022_cv.pdf).
 
-**Education**
+**Education** \
 &nbsp;&nbsp;&nbsp;•&nbsp;  Ph.D.  Oregon State University, Applied Economics, Expected 06/2023<br>
 &nbsp;&nbsp;&nbsp;•&nbsp;  B.A.  Colorado College, Economics, May 2014
 <br>
 <br>
-**Research Interests**
+**Research Interests** \
 &nbsp;&nbsp;&nbsp;•&nbsp;  Natural Resource Management and Economics<br>
 &nbsp;&nbsp;&nbsp;•&nbsp;  Environmental Economics <br>
 &nbsp;&nbsp;&nbsp;•&nbsp;  Applied Microeconomics and Econometrics<br>
 &nbsp;&nbsp;&nbsp;•&nbsp;  Occuptaional Safety and Health<br>
 <br>
 <br>
-**Contact**
+**Contact** \
 email &nbsp;&nbsp;&nbsp;•&nbsp;  vasant at oregonstate dot edu<br>
