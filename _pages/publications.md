@@ -27,8 +27,6 @@ Abstract: Firms face many competing incentives when managing workplace accident 
 <br>
 <br>
 <br>
-<br>
-<br>
 <div id="pubs"></div>
 
 <font size="5">Peer-Reviewed Publications</font> 
@@ -39,8 +37,6 @@ Abstract: Commercial fishers are constantly exposed to many risk factors, making
 <br>
 <br>
 <div style="text-align: right"> <a href="https://thamannavasan2.netlify.app//publications#top">Return to top</a> </div>
-<br>
-<br>
 <br>
 <br>
 <br>
