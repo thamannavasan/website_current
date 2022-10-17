@@ -12,3 +12,8 @@ In my research I am interested in the presence of uncertainty and physical or ec
 
 I will be on the job market in the 2022/2023 AY and will be available for interviews at the Southern Economic Association and the ASSA annual meeting. 
 
+<font size="4">Research Interests</font>
+* Natural Resource Management and Economics
+* Environmental Economics 
+* Applied Microeconomics and Econometrics
+* Occuptaional Safety and Health
