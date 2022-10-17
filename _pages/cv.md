@@ -9,5 +9,5 @@ redirect_from:
 <font size="6">CV</font>
 
 
-[Click here for PDF version of CV](https://thamannavasan2.netlify.app/_pages/ThamannaVasan_2022_cv.pdf)
+[Click here for PDF version of CV](https://thamannavasan.netlify.app/_pages/ThamannaVasan_2022_cv.pdf)
 
