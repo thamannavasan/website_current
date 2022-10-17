@@ -4,10 +4,11 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
+<font size="6">Research</font>
 
-[Working Papers] •
+[Working Papers](#workingpapers) • [Working Papers](#workingpapers) • [Working Papers](#workingpapers)
 
-<font size="6">Working Papers</font>
+<font size="5">Working Papers</font> {#workingpapers}
 
 **Fish or Flight: The Role of Accident Risk in Commercial Fishing Trip Duration (JMP)** <br>
 Thamanna Vasan (2022) <br>
@@ -15,12 +16,12 @@ Abstract: Firms face many competing incentives when managing workplace accident 
 
 *Please Contact for Draft of JMP*
 
-<font size="6">Publications</font>
+<font size="5">Publications</font>
 
 <a href="https://www.journals.uchicago.edu/doi/full/10.1086/716856">**A Safer Catch? The Role of Fisheries Management in Fishing Safety**</a>, with Lisa Pfeiffer and  Tess Petesch, *Marine Resource Economics*, Volume 37, Number 1. January 2022 <br>
 Abstract: Commercial fishers are constantly exposed to many risk factors, making it a dangerous occupation. Fisheries management that limits access and catches can give rise to well-known stock and rule-of-capture externalities known as the “race to fish.” This market failure dissipates rents and can lead fishers to take on additional risks such as fishing in poor weather, overloading vessels, or delaying maintenance to outcompete others. Rights-based management is expected to reduce the incentives to take on additional risk. Using a large dataset of fishers from around the United States, we empirically estimate the effects of individual fishing quota (IFQ) programs on one important risk factor: the decision to fish in poor weather. We find that risk-taking behavior generally decreases under IFQs, but the magnitude of the shift differs by fishery, and we explore potential drivers of these differences.
 
-<font size="6">Selected Policy Reports and Publications</font>
+<font size="5">Selected Policy Reports and Publications</font>
 
 <a href="https://www.agclimate.net/2019/04/25/what-can-the-pacific-northwest-oyster-aquaculture-industry-do-about-ocean-acidification/"> **What can the Pacific Northwest Oyster Aquaculture Industry do about Ocean Acidification?**</a>, with David M. Kling. *Agriculture Climate Network*, April 2019. <br>
 Blog post about aquaculture firm adaptation to ocean acidification in the Pacific Northwest.
