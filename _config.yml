@@ -204,8 +204,8 @@ defaults:
       related: true
   # _pages
   - scope:
-      path: ""
-      type: pages
+      path: "/fellowships/"
+      type: fellowships
     values:
       layout: single
       author_profile: true
