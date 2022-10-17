@@ -8,7 +8,9 @@ author_profile: true
 
 [Working Papers](#workingpapers) • [Peer-Reviewed Publications](#pubs) • [Policy Reports and Publications](#policy)
 
-<font size="5">Working Papers</font> <div id="workingpapers"></div>
+<div id="workingpapers"></div>
+
+<font size="5">Working Papers</font> 
 
 
 **Fish or Flight: The Role of Accident Risk in Commercial Fishing Trip Duration (JMP)** <br>
@@ -17,13 +19,21 @@ Abstract: Firms face many competing incentives when managing workplace accident 
 
 *Please Contact for Draft of JMP*
 
+[Return to top]{style="float:right"}
 
-<font size="5">Peer-Reviewed Publications</font> <div id="pubs"></div>
+<div id="pubs"></div>
+
+<font size="5">Peer-Reviewed Publications</font> 
 
 <a href="https://www.journals.uchicago.edu/doi/full/10.1086/716856">**A Safer Catch? The Role of Fisheries Management in Fishing Safety**</a>, with Lisa Pfeiffer and  Tess Petesch, *Marine Resource Economics*, Volume 37, Number 1. January 2022 <br>
 Abstract: Commercial fishers are constantly exposed to many risk factors, making it a dangerous occupation. Fisheries management that limits access and catches can give rise to well-known stock and rule-of-capture externalities known as the “race to fish.” This market failure dissipates rents and can lead fishers to take on additional risks such as fishing in poor weather, overloading vessels, or delaying maintenance to outcompete others. Rights-based management is expected to reduce the incentives to take on additional risk. Using a large dataset of fishers from around the United States, we empirically estimate the effects of individual fishing quota (IFQ) programs on one important risk factor: the decision to fish in poor weather. We find that risk-taking behavior generally decreases under IFQs, but the magnitude of the shift differs by fishery, and we explore potential drivers of these differences.
 
-<font size="5">Selected Policy Reports and Publications</font> <div id="policy"></div>
+
+[Return to top]{style="float:right"}
+
+<div id="policy"></div>
+
+<font size="5">Selected Policy Reports and Publications</font> 
 
 <a href="https://www.agclimate.net/2019/04/25/what-can-the-pacific-northwest-oyster-aquaculture-industry-do-about-ocean-acidification/"> **What can the Pacific Northwest Oyster Aquaculture Industry do about Ocean Acidification?**</a>, with David M. Kling. *Agriculture Climate Network*, April 2019. <br>
 Blog post about aquaculture firm adaptation to ocean acidification in the Pacific Northwest.
@@ -36,7 +46,9 @@ Analysis of universal healthcare system on access to care and cost for the Latin
 
 <a href="https://thamannavasan2.netlify.app/_pages/Ticket-to-Thrive.pdf">**Ticket to Thrive: A Solution for Affordable Transit in the Denver Region**</a>, with Chris Stiffler. *Colorado Fiscal Institute*, April 2016.<br>
 Analyzes the economic and fiscal impacts of a low-income fare on the transit agency and state revenue.
-<a href="">  </a>, with <br>
+
+
+[Return to top]{style="float:right"}
 
 
 
