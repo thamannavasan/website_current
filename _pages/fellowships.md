@@ -7,7 +7,7 @@ author_profile: true
 <font size="6">Fellowships and Awards</font>
 
 
-Scholarly Presentation Award <br>
+**Scholarly Presentation Award** <br>
 Oregon State University, Graduate School <br>
 June 2022, Corvallis, OR
 
