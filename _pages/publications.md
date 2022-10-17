@@ -60,12 +60,16 @@ Analyzes the economic and fiscal impacts of a low-income fare on the transit age
 <font size="5">Research Experience</font> 
 
 **Oregon State University— Department of Applied Economics** \
-Corvallis OR, Winter 2018-Present \
+Corvallis OR, Fall 2020-Present \
 Graduate Research Assistant\
-&nbsp;&nbsp;&nbsp;•&nbsp;  “Evaluation of mitigation strategies for harmful algal blooms in the West Coast Dungeness crab fishery”. NCCOS Prevention, Control, and Mitigation of Harmful Algal Blooms Program. D. Kling (lead PI, Supervisor), D. Holland, S. Jardine, J. Sanchirico, and G. Sylvia (co-PIs).\
-&nbsp;&nbsp;&nbsp;•&nbsp;  “Vulnerability and Adaptation to Ocean Acidification Among Pacific Northwest Mussel and Oyster Stakeholders”. NOAA Ocean Acidification Program. DJ. Wrathall (lead PI), G. Waldbusser, and D. Kling (Supervisor).\
-&nbsp;&nbsp;&nbsp;•&nbsp;  Miscellaneous data collection, analysis, and literature review for Dr. Jennifer Alix-Garcia (Spring 2018) and Dr. William Jaeger (Winter 2018)<br>
+“Evaluation of mitigation strategies for harmful algal blooms in the West Coast Dungeness crab fishery”. NCCOS Prevention, Control, and Mitigation of Harmful Algal Blooms Program. D. Kling (lead PI, Supervisor), D. Holland, S. Jardine, J. Sanchirico, and G. Sylvia (co-PIs).
 <br>
+Corvallis OR, Summer 2019-Summer 2020 \
+Graduate Research Assistant\
+“Vulnerability and Adaptation to Ocean Acidification Among Pacific Northwest Mussel and Oyster Stakeholders”. NOAA Ocean Acidification Program. DJ. Wrathall (lead PI), G. Waldbusser, and D. Kling (Supervisor).\
+<br>
+Miscellaneous data collection, analysis, and literature review for Jennifer Alix-Garcia (Spring 2018) and William Jaeger (Winter 2018)<br>
+<br><br>
 **ECS Federal, Research Associate in support of National Oceanic & Atmospheric Administration**\
 Seattle WA, Spring 2019-Fall 2020\
 Research Assisstant; Supervisor: Lisa Pfeiffer
