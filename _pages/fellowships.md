@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Grants and Fellowships"
+title: "Fellowships and Awards"
 permalink: /fellowships/
 author_profile: true
 ---
