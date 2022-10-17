@@ -63,6 +63,7 @@ Graduate Research Assistant
 * “Vulnerability and Adaptation to Ocean Acidification Among Pacific Northwest Mussel and Oyster Stakeholders”. NOAA Ocean Acidification Program. DJ. Wrathall (lead PI), G. Waldbusser, and D. Kling (Supervisor). Summer 2019-Summer 2020.
 * Miscellaneous data collection, analysis, and literature review for Jennifer Alix-Garcia (Spring 2018) and William Jaeger (Winter 2018)
 <br><br>
+
 **ECS Federal, Research Associate in support of National Oceanic & Atmospheric Administration**\
 Seattle WA, Spring 2019-Fall 2020\
 Research Assisstant; Supervisor: Lisa Pfeiffer
