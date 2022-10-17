@@ -12,13 +12,13 @@ I am a Ph.D. candidate in the Applied Economics Department at Oregon State Unive
 
 I will be on the job market in the 2022/2023 AY and will be available for interviews at the Southern Economic Association and the ASSA annual meeting. 
 
-<font size="4"> **Education** </font>
+**Education**
 
 &nbsp;&nbsp;&nbsp;•&nbsp;  Ph.D.  Oregon State University, Applied Economics, Expected 06/2023<br>
 &nbsp;&nbsp;&nbsp;•&nbsp;  B.A.  Colorado College, Economics, May 2014
 <br>
 <br>
-<font size="4"> **Research Interests** </font>
+**Research Interests**
 
 &nbsp;&nbsp;&nbsp;•&nbsp;  Natural Resource Management and Economics<br>
 &nbsp;&nbsp;&nbsp;•&nbsp;  Environmental Economics <br>
