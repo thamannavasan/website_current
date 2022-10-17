@@ -4,6 +4,9 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
+
+[Working Papers] •
+
 <font size="6">Working Papers</font>
 
 **Fish or Flight: The Role of Accident Risk in Commercial Fishing Trip Duration (JMP)** <br>
