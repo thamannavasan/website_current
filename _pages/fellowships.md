@@ -7,6 +7,11 @@ author_profile: true
 <font size="6">Fellowships and Awards</font>
 
 
+Scholarly Presentation Award <br>
+Oregon State University, Graduate School <br>
+June 2022, Corvallis, OR
+
+
 <a href="https://biocomplexity.virginia.edu/institute/divisions/social-and-decision-analytics/dspg" target="_blank">Data Science for the Public Good</a><br>
 University of Virginia and Oregon State University <br>
 May 2020 – Oct 2020, Corvallis, OR <br>
