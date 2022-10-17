@@ -4,6 +4,7 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
+<div id="top"></div>
 <font size="6">Research</font>
 
 [Working Papers](#workingpapers) • [Peer-Reviewed Publications](#pubs) • [Policy Reports and Publications](#policy)
@@ -19,7 +20,8 @@ Abstract: Firms face many competing incentives when managing workplace accident 
 
 *Please Contact for Draft of JMP*
 
-[Return to top]{style="float:right"}
+\begin{FlushRight}
+[Return to top](#top)\end{FlushRight}
 
 <div id="pubs"></div>
 
