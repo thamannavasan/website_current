@@ -6,8 +6,7 @@ author_profile: true
 ---
 
 <font size="6">Teaching Experience</font>
-<br>
-<br>
+
 
 ### Oregon State University— Department of Applied Economics, Corvallis OR<br>
 * Instructor
