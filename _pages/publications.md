@@ -7,7 +7,7 @@ author_profile: true
 <div id="top"></div>
 <font size="6">Research</font>
 
-[Working Papers](#workingpapers) • [Peer-Reviewed Publications](#pubs) • [Policy Reports and Publications](#policy)
+[Working Papers](#workingpapers) • [Peer-Reviewed Publications](#pubs) • [Policy Reports and Publications](#policy) • [Research Experience](#exp)
 
 <div id="workingpapers"></div>
 
@@ -20,7 +20,7 @@ Abstract: Firms face many competing incentives when managing workplace accident 
 
 *Please Contact for Draft of JMP*
 <br>
-<div style="text-align: right"> <a href="https://thamannavasan2.netlify.app//publications#top">Return to top</a> </div>
+<div style="text-align: right"> <a href="https://thamannavasan.netlify.app/publications#top">Return to top</a> </div>
 <br>
 <br>
 <div id="pubs"></div>
@@ -30,7 +30,7 @@ Abstract: Firms face many competing incentives when managing workplace accident 
 <a href="https://www.journals.uchicago.edu/doi/full/10.1086/716856" target="_blank">**A Safer Catch? The Role of Fisheries Management in Fishing Safety**</a>, with Lisa Pfeiffer and  Tess Petesch, *Marine Resource Economics*, Volume 37, Number 1. January 2022 <br>
 Abstract: Commercial fishers are constantly exposed to many risk factors, making it a dangerous occupation. Fisheries management that limits access and catches can give rise to well-known stock and rule-of-capture externalities known as the “race to fish.” This market failure dissipates rents and can lead fishers to take on additional risks such as fishing in poor weather, overloading vessels, or delaying maintenance to outcompete others. Rights-based management is expected to reduce the incentives to take on additional risk. Using a large dataset of fishers from around the United States, we empirically estimate the effects of individual fishing quota (IFQ) programs on one important risk factor: the decision to fish in poor weather. We find that risk-taking behavior generally decreases under IFQs, but the magnitude of the shift differs by fishery, and we explore potential drivers of these differences.
 <br>
-<div style="text-align: right"> <a href="https://thamannavasan2.netlify.app//publications#top">Return to top</a> </div>
+<div style="text-align: right"> <a href="https://thamannavasan.netlify.app/publications#top">Return to top</a> </div>
 <br>
 <br>
 <div id="policy"></div>
@@ -49,9 +49,44 @@ Analysis of universal healthcare system on access to care and cost for the Latin
 <a href="https://thamannavasan2.netlify.app/_pages/Ticket-to-Thrive.pdf" target="_blank">**Ticket to Thrive: A Solution for Affordable Transit in the Denver Region**</a>, with Chris Stiffler. *Colorado Fiscal Institute*, April 2016.<br>
 Analyzes the economic and fiscal impacts of a low-income fare on the transit agency and state revenue.
 <br>
-<div style="text-align: right"> <a href="https://thamannavasan2.netlify.app//publications#top">Return to top</a> </div>
+<div style="text-align: right"> <a href="https://thamannavasan.netlify.app/publications#top">Return to top</a> </div>
 
+<br>
+<div style="text-align: right"> <a href="https://thamannavasan.netlify.app/publications#top">Return to top</a> </div>
+<br>
+<br>
+<div id="exp"></div>
 
+<font size="5">Research Experience</font> 
 
+**Oregon State University— Department of Applied Economics** \
+Corvallis OR, Winter 2018-Present \
+Graduate Research Assistant\
+&nbsp;&nbsp;&nbsp;•&nbsp;  “Evaluation of mitigation strategies for harmful algal blooms in the West Coast Dungeness crab fishery”. NCCOS Prevention, Control, and Mitigation of Harmful Algal Blooms Program. D. Kling (lead PI, Supervisor), D. Holland, S. Jardine, J. Sanchirico, and G. Sylvia (co-PIs).\
+&nbsp;&nbsp;&nbsp;•&nbsp;  “Vulnerability and Adaptation to Ocean Acidification Among Pacific Northwest Mussel and Oyster Stakeholders”. NOAA Ocean Acidification Program. DJ. Wrathall (lead PI), G. Waldbusser, and D. Kling (Supervisor).\
+&nbsp;&nbsp;&nbsp;•&nbsp;  Miscellaneous data collection, analysis, and literature review for Dr. Jennifer Alix-Garcia (Spring 2018) and Dr. William Jaeger (Winter 2018)<br>
+<br>
+**ECS Federal, Research Associate in support of National Oceanic & Atmospheric Administration**\
+Seattle WA, Spring 2019-Fall 2020\
+Research Assisstant; Supervisor: Lisa Pfeiffer
+<br>
+<br>
+**Data Science for the Public Good**\
+Corvallis OR, Summer 2020\
+Graduate Fellow and Mentor
+<br>
+<br>
+**Colorado Fiscal Institute** \
+Denver CO, May 2014- September 2017\ 
+Economic Policy and State Budget Analyst
+<br>
+<br>
+**Rocky Mountain PBS**\
+Denver CO, June 2013 – December 2013\
+Investigative Journalism Quantitative Research Fellow
 
+<br>
+<div style="text-align: right"> <a href="https://thamannavasan.netlify.app/publications#top">Return to top</a> </div>
+<br>
+<br>
 
