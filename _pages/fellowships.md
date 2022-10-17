@@ -4,6 +4,7 @@ title: "Grants and Fellowships"
 permalink: /fellowships/
 author_profile: true
 ---
+
 <a href="https://biocomplexity.virginia.edu/institute/divisions/social-and-decision-analytics/dspg">**Data Science for the Public Good**</a><br>
 University of Virginia and Oregon State University <br>
 May 2020 – Oct 2020, Corvallis, OR <br>
