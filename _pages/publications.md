@@ -8,7 +8,8 @@ author_profile: true
 
 [Working Papers](#workingpapers) • [Working Papers](#workingpapers) • [Working Papers](#workingpapers)
 
-<font size="5">Working Papers</font> {#workingpapers}
+<font size="5">Working Papers</font> <div id="i=workingpapers"></div>
+
 
 **Fish or Flight: The Role of Accident Risk in Commercial Fishing Trip Duration (JMP)** <br>
 Thamanna Vasan (2022) <br>
