@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<font size="6"Teaching Experience</font>
+<font size="6">Teaching Experience</font>
 <br>
 <br>
 
