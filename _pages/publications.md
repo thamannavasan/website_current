@@ -21,7 +21,7 @@ Abstract: Firms face many competing incentives when managing workplace accident 
 *Please Contact for Draft of JMP*
 
 \begin{FlushRight}
-[Return to top](#top)\end{FlushRight}
+[Return to top](#top) \end{FlushRight}
 
 <div id="pubs"></div>
 
