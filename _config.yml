@@ -202,13 +202,6 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
-  - scope:
-      path: "/fellowships/"
-      type: fellowships
-    values:
-      layout: single
-      author_profile: true
   # _teaching
   - scope:
       path: "/teaching/"
