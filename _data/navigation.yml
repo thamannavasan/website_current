@@ -3,14 +3,14 @@ main:
   - title: "Research"
     url: /publications/
   
+ - title: "Fellowships and Awards"
+    url: /fellowships/
+    
   - title: "Teaching"
     url: /teaching/    
     
   - title: "Talks"
     url: /talks/  
-    
- # - title: "Portfolio"
- #   url: /portfolio/
         
   #- title: "Blog Posts"
    # url: /year-archive/
