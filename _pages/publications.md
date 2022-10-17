@@ -64,13 +64,13 @@ Graduate Research Assistant
 * Miscellaneous data collection, analysis, and literature review for Jennifer Alix-Garcia (Spring 2018) and William Jaeger (Winter 2018)
 <br><br>
 
-**ECS Federal, Research Associate in support of National Oceanic & Atmospheric Administration**\
-Seattle WA, Spring 2019-Fall 2020\
-Research Assisstant; Supervisor: Lisa Pfeiffer
+**ECS Federal, in support of National Oceanic & Atmospheric Administration** \
+Seattle WA, Spring 2019-Fall 2020 \
+Research Associate; Supervisor: Lisa Pfeiffer
 <br>
 <br>
-**Data Science for the Public Good**\
-Corvallis OR, Summer 2020\
+**Data Science for the Public Good** \
+Corvallis OR, Summer 2020 \
 Graduate Fellow and Mentor
 <br>
 <br>
@@ -79,8 +79,8 @@ Denver CO, May 2014- September 2017 \
 Economic Policy and State Budget Analyst
 <br>
 <br>
-**Rocky Mountain PBS**\
-Denver CO, June 2013 – December 2013\
+**Rocky Mountain PBS** \
+Denver CO, June 2013 – December 2013 \ 
 Investigative Journalism Quantitative Research Fellow
 
 <br>
