@@ -40,13 +40,13 @@ Abstract: Commercial fishers are constantly exposed to many risk factors, making
 <a href="https://www.agclimate.net/2019/04/25/what-can-the-pacific-northwest-oyster-aquaculture-industry-do-about-ocean-acidification/" target="_blank"> **What can the Pacific Northwest Oyster Aquaculture Industry do about Ocean Acidification?**</a>, with David M. Kling. *Agriculture Climate Network*, April 2019. <br>
 Blog post about aquaculture firm adaptation to ocean acidification in the Pacific Northwest.
 
-<a href="https://thamannavasan2.netlify.app/_pages/superviseduse.pdf" target="_blank">**The Costs and Benefits of a Supervised Use Site in Denver, Colorado**</a>, with Amos Irwin and Lisa Raville. *Drug Policy Alliance*, Feburary 2019. <br>
+<a href="https://thamannavasan.netlify.app/_pages/superviseduse.pdf" target="_blank">**The Costs and Benefits of a Supervised Use Site in Denver, Colorado**</a>, with Amos Irwin and Lisa Raville. *Drug Policy Alliance*, Feburary 2019. <br>
 Report marshals the best available data from Denver and from existing facilities in Canada and Europe to analyze the cost effectiveness of a prospective supervised use site in Denver.
 
-<a href="https://thamannavasan2.netlify.app/_pages/Comparing-ColoradoCare.pdf" target="_blank">**Comparing ColoradoCare: An Analysis of Health Care Costs for Latino and Immigrant Coloradans**</a>, with Chris Stiffler, Kathy White, and Luke Straka. *Colorado Fiscal Institute*, July 2016.<br>
+<a href="https://thamannavasan.netlify.app/_pages/Comparing-ColoradoCare.pdf" target="_blank">**Comparing ColoradoCare: An Analysis of Health Care Costs for Latino and Immigrant Coloradans**</a>, with Chris Stiffler, Kathy White, and Luke Straka. *Colorado Fiscal Institute*, July 2016.<br>
 Analysis of universal healthcare system on access to care and cost for the Latino community in Colorado. Original survey to bridge competency gaps present in existing national and state panel data sets such as the MEPS to understand gaps in access and care.
 
-<a href="https://thamannavasan2.netlify.app/_pages/Ticket-to-Thrive.pdf" target="_blank">**Ticket to Thrive: A Solution for Affordable Transit in the Denver Region**</a>, with Chris Stiffler. *Colorado Fiscal Institute*, April 2016.<br>
+<a href="https://thamannavasan.netlify.app/_pages/Ticket-to-Thrive.pdf" target="_blank">**Ticket to Thrive: A Solution for Affordable Transit in the Denver Region**</a>, with Chris Stiffler. *Colorado Fiscal Institute*, April 2016.<br>
 Analyzes the economic and fiscal impacts of a low-income fare on the transit agency and state revenue.
 <br>
 <div style="text-align: right"> <a href="https://thamannavasan.netlify.app/publications#top">Return to top</a> </div>
